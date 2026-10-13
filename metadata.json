@@ -1,0 +1,6 @@
+{
+  "name": "KAMUI AI",
+  "description": "Elite dual-mode AI companion for high-precision technical engineering and AOTES academic study excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
